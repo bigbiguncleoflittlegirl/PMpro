@@ -1,2 +1,6 @@
 # PMpro
-实训项目
+## 配置
+spring
+mybatis
+maven
+
